@@ -1,0 +1,2 @@
+# ValorantNetFaker
+ Education purposes only.
